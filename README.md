@@ -1,2 +1,2 @@
-# complex-paraphrasing.github.io
+# JpopJr.complex-paraphrasing.github.io
 The fluidity of a paraphrasing paradigm
